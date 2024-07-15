@@ -628,10 +628,10 @@
             "m_Id": "11cd5ea9967f4b31939950512099280a"
         },
         {
-            "m_Id": "319c984c58094e0bb7918721e85a336d"
+            "m_Id": "ec51f9cef258497db3e6f422ba2f0fb2"
         },
         {
-            "m_Id": "ec51f9cef258497db3e6f422ba2f0fb2"
+            "m_Id": "319c984c58094e0bb7918721e85a336d"
         }
     ]
 }
@@ -1136,14 +1136,14 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "Custom Function",
+    "m_Name": "AddAdditionalLights (Custom Function)",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
             "x": -276.0,
-            "y": -28.0,
-            "width": 269.0,
+            "y": -27.999996185302736,
+            "width": 269.00006103515627,
             "height": 422.0
         }
     },
@@ -1191,8 +1191,8 @@
         "m_SerializableColors": []
     },
     "m_SourceType": 0,
-    "m_FunctionName": "Enter function name here...",
-    "m_FunctionSource": "",
+    "m_FunctionName": "AddAdditionalLights",
+    "m_FunctionSource": "b9d77ace88f367346bfc01de0a22f8e8",
     "m_FunctionBody": "Enter function body here..."
 }
 
